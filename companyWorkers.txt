@@ -1,0 +1,7 @@
+Employer John 40000
+Boss Alice 100000 5
+Intern Bob 20000
+Employer Mary 55000
+Employer Mary 66000
+Intern Charlie 22000
+Boss David 120000 3
